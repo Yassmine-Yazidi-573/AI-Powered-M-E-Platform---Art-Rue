@@ -1,1 +1,1 @@
-# AI-Powered-M-E-Platform---Art-Rue
+# AI-Powered-M&E-Platform-Art-Rue
