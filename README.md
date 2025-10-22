@@ -24,5 +24,5 @@ This project is a **Streamlit-based dashboard** for data-driven monitoring and e
 
 ## Improvements to be considered:
    -Working on a multiclass classification model instead of a simple Binary one: Adding "Neutral" as a third class in FSA
-   -Adding more charts/Visuals Options
+   /Adding more charts/Visuals Options
 
