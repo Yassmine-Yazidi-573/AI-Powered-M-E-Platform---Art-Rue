@@ -11,7 +11,7 @@ This project is a **Streamlit-based dashboard** for data-driven monitoring and e
    - Visualizes sentiment distribution with pie charts.
 
 2. **Funnel Chart Generation**
-   - Visualizes candidate progress through stages (Total → Preselected → Selected) by region of origin and residence.
+   - Visualizes candidate progress through stages (Total  Candidates → Preselected → Selected) by region of origin and residence.
    - Generates interactive funnel charts using Plotly.
 
 3. **Migration Pattern Analysis**
@@ -25,4 +25,7 @@ This project is a **Streamlit-based dashboard** for data-driven monitoring and e
 ## Improvements to be considered:
    -Working on a multiclass classification model instead of a simple Binary one: Adding "Neutral" as a third class in FSA
    /Adding more charts/Visuals Options
+   
+## Notes:
+   - Data used to train and test the model is synthetic data and not the Organization's original data! 
 
